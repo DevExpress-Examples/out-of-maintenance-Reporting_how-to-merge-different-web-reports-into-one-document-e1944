@@ -1,6 +1,6 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="WebApplication1._Default" %>
 
-<%@ Register Assembly="DevExpress.XtraReports.v13.2.Web, Version=13.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4"
+<%@ Register Assembly="DevExpress.XtraReports.v13.2.Web, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.XtraReports.Web" TagPrefix="dxxr" %>
 
 <!DOCTYPE html>
